@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LANDING PAGE - VEN SAÚDE(raiz)",
-    "currentPage": "index.html",
+    "currentPage": "saude_consultas_exames_economia_acessivel.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,14 +54,15 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "saude_consultas_exames_economia_acessivel.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "VEN CLUB - Um Clube de Benefícios ao seu alcance.",
+        "meta_descr": "Temos a solução para você e sua família. Saúde de qualidade a preços acessíveis.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20ven%20club%201_prancheta%201-2000x788.png"
       },
       "components": [
         {
